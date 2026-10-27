@@ -1,4 +1,4 @@
-<h2>Halo! 👋</h2>
+<h2>Halo! saya Riki👋</h2>
 
 <p>
 Mahasiswa IT yang suka bikin website, tools kecil yang berguna, dan konten video karakter AI.<br/>
